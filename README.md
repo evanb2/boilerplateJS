@@ -4,9 +4,9 @@
 Description:
 
 # SetUp and Use
-In order to use this program you will need a browser...NOT IE!
 
 SetUp
+
 1.
 
 # Copyright (c) 2015 (Name)
